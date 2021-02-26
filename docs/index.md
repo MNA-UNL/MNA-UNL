@@ -8,7 +8,7 @@ Carrera con Reconocimiento provisorio del título – Carrera nueva, expediente 
 
 Inicio de Cursado segunda edición: 2021.
 
-[¿Por qué estudiar la Maestría en Negocios Agroalimentarios?](por-que-estudiar.html) 
+[¿Por qué estudiar la Maestría en Negocios Agroalimentarios?](https://github.com/MNA-UNL/MNA-UNL/blob/main/por-que-estudiar.rmd) 
 
 [Más info en la web de la FCA UNL](https://www.fca.unl.edu.ar/posgrado/negocios-agroalimentarios/) 
 
