@@ -40,7 +40,7 @@ LinkedIn: Maestría en Negrocios Agroalimentarios UNL
 
   </a>
   <p style="text-align: center;">
-  <img src="https://github.com/MNA-UNL/MNA-UNL/tree/gh-pages/docs/logofca.png", style="height:50px;"/>   
+  ![](https://github.com/MNA-UNL/MNA-UNL/tree/gh-pages/docs/logofca.png)
   <img src="https://github.com/MNA-UNL/MNA-UNL/tree/gh-pages/docs/logofce.png", style="height:50px;"/>
 
 
