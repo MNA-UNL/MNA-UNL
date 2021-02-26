@@ -1,4 +1,4 @@
-"" ¿Por qué estudiar la Maestría en Negocios Agroalimentarios?
+## ¿Por qué estudiar la Maestría en Negocios Agroalimentarios?
 
 Porque el futuro necesita profesionales aptos para dirigir los negocios de empresas y organizaciones del sector agroalimentario con una visión estratégica e integral, capaces de conformar equipos interdisciplinarios y enfrentar los desafíos de un entorno globalizado que cambia en forma permanente, contribuyendo al desarrollo territorial de formas rentables y cuidando a su vez la conservación de los recursos naturales, el medioambiente y las personas.
 
