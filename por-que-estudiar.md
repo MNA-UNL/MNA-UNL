@@ -1,14 +1,4 @@
----
-title: "¿Por qué estudiar la Maestría en Negocios Agroalimentarios?"
-subtitle: Universidad Nacional del Litoral
-output:
-  html_document:
-    css: mna.css
-    includes:
-      after_body: footermna.html
-      before_body: headermna.html
-editor_options: null
----
+"" ¿Por qué estudiar la Maestría en Negocios Agroalimentarios?
 
 Porque el futuro necesita profesionales aptos para dirigir los negocios de empresas y organizaciones del sector agroalimentario con una visión estratégica e integral, capaces de conformar equipos interdisciplinarios y enfrentar los desafíos de un entorno globalizado que cambia en forma permanente, contribuyendo al desarrollo territorial de formas rentables y cuidando a su vez la conservación de los recursos naturales, el medioambiente y las personas.
 
