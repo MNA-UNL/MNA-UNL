@@ -1,37 +1,18 @@
-## Welcome to GitHub Pages
+## Maestría en Negocios Agroalimentarios
 
-You can use the [editor on GitHub](https://github.com/MNA-UNL/MNA-UNL/edit/gh-pages/docs/index.md) to maintain and preview the content for your website in Markdown files.
+La Maestría en Negocios Agroalimentarios es una carrera de tipo profesional de alta dirección pensada para facilitar la comprensión e implementación de técnicas de gestión en organizaciones agroalimentarias que se desempeñan en entornos cambiantes, desde una visión integral.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Se dicta en forma conjunta entre las Facultades de Ciencias Económicas y de Ciencias Agrarias de la Universidad Nacional del Litoral, con sede en la última institución mencionada, con modalidad presencial.
 
-### Markdown
+Carrera con Reconocimiento provisorio del título – Carrera nueva, expediente 11.768/15. Dictamen favorable CONEAU sesión nº 440
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Inicio de Cursado segunda edición: 2021.
 
-```markdown
-Syntax highlighted code block
+[¿Por qué estudiar la Maestría en Negocios Agroalimentarios?](https://github.com/MNA-UNL/MNA-UNL/blob/main/por-que-estudiar.html) 
 
-# Header 1
-## Header 2
-### Header 3
+[Más info en la web de la FCA UNL](https://www.fca.unl.edu.ar/posgrado/negocios-agroalimentarios/) 
 
-- Bulleted
-- List
 
-1. Numbered
-2. List
 
-**Bold** and _Italic_ and `Code` text
 
-[Link](url) and ![Image](src)
-```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/MNA-UNL/MNA-UNL/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
