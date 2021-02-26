@@ -19,31 +19,22 @@ Maestría en Negocios Agroalimentarios FCA UNL
   </a>
   
 <p style="text-align: center;">
-  Contactanos:
-  
-<p style="text-align: center;">
-![mail](https://github.com/MNA-UNL/MNA-UNL/tree/main/images/mail.jpg)
-  
+  Contactanos:  
   <a href="mna@fca.unl.edu.ar/">
 mna@fca.unl.edu.ar
 <p style="text-align: center;">
-  <img src="./images/insta.jpg", style="height:20px;"/>
   <a href="https://www.instagram.com/mnaunl/">
 Instagram: mnaunl
 <p style="text-align: center;">
-    <img src="./images/face.jpg", style="height:20px;"/>
   <a href="https://www.facebook.com/mnaunl">
 Facebook: mnaunl
 <p style="text-align: center;">
-  <img src="./images/twitter.png", style="height:20px;"/>
   <a href="https://twitter.com/mnaunl">
 Twitter: mnaunl
 <p style="text-align: center;">
-  <img src="./images/youtube.png", style="height:20px;"/>
   <a href="https://www.youtube.com/channel/UCy17q1DK9C9AJV9dGXQV7jw">
 YouTube: Maestría en Negocios Agroalimentarios UNL
 <p style="text-align: center;">
-<img src="./images/linked.jpg", style="height:20px;"/>
   <a href="https://www.linkedin.com/company/maestr%C3%ADa-en-negrocios-agroalimentarios-unl">
 LinkedIn: Maestría en Negrocios Agroalimentarios UNL
 
