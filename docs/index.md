@@ -22,7 +22,7 @@ Maestría en Negocios Agroalimentarios FCA UNL
   Contactanos:
   
 <p style="text-align: center;">
-![mail](http://./images/mail.jpg)
+![mail](http://images/mail.jpg)
   
   <a href="mna@fca.unl.edu.ar/">
 mna@fca.unl.edu.ar
