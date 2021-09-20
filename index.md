@@ -9,5 +9,9 @@ Carrera con Reconocimiento provisorio del título – Carrera nueva, expediente 
 
 Inicio de Cursado segunda edición: 2021.
 
+```{r, echo = F, out.width = "40%"}
+include_graphics("../images/fcaunl.jpg")
+```
+
 [¿Por qué estudiar la Maestría en Negocios Agroalimentarios?](por-que-estudiar.html) 
 
